@@ -1,6 +1,6 @@
 import format from 'date-fns/format'
 import DatePicker, { registerLocale } from 'react-datepicker'
-import { Ref, forwardRef, useState } from 'react'
+import { Ref, forwardRef } from 'react'
 import br from 'date-fns/locale/pt-BR'
 
 // ** Styled Component
